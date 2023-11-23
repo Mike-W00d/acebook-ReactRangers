@@ -5,7 +5,8 @@ const Post = require("../../models/post");
 const User = require("../../models/user");
 const JWT = require("jsonwebtoken");
 const { log } = require("console");
-const secret = process.env.JWT_SECRET;
+// const secret = process.env.JWT_SECRET;
+const secret = 'f6d278bb34e1d0e146a80b16ec254c05'
 
 let token;
 let user;
@@ -168,7 +169,30 @@ describe("/api/posts", () => {
       expect(response.body.token).toEqual(undefined);
     });
   });
+
+  describe("PUT, when token is present", () => {
+    test("responds with a 201", async () => {
+      let post = new Post({ _id: 1, content: "howdy!", author: user._id, likes: []});
+      let response = await request(app)
+        .put(`/api/posts/${post._id}`)
+        .set("Authorization", `Bearer ${token}`)
+        .send({likes: [user._id]});
+      expect(response.status).toEqual(201);
+    });
+
+    // test("updates a post", async () => {
+    //   let post = new Post({ _id: 1, content: "howdy!", author: user._id, likes: []});
+    //   const posts = [post]
+    //   await request(app)
+    //     .put(`/api/posts/${post._id}`)
+    //     .set("Authorization", `Bearer ${token}`)
+    //     .send({likes: [2]});
+    //   expect(posts[0].likes).toEqual([2]);
+    // });
+  });
 });
+
+
 
 // describe("GET api/post/:userId", () => {
 //   beforeAll(async () => {

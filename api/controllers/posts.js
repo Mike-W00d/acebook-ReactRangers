@@ -29,8 +29,8 @@ const PostsController = {
   Update: async (req, res) => {
 
     const postId = req.params.id
-    const posts = Post.find()
     const newLikes = req.body.likes
+    const posts = await Post.find()
     try {
       posts.updateOne({ _id: ObjectID(postId) }, { $set: { likes: newLikes } });
       res.status(201).json({ message: 'Successfully updated' });
