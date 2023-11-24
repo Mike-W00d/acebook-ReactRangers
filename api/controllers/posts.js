@@ -50,7 +50,9 @@ const PostsController = {
   ByFollowing: async (req, res) => {
     try {
       const currentUser = await User.findById(req.user_id);
-      const posts = await Post.find({ author: { $in: currentUser.following } });
+      const posts = await Post.find({
+        author: { $in: currentUser.following },
+      }).sort({ created: -1 });
       const token = TokenGenerator.jsonwebtoken(req.user_id);
       res.status(200).json({ posts: posts, token: token });
     } catch (err) {
