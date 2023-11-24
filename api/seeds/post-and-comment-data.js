@@ -172,7 +172,7 @@ const CONTENT = [
     },
     {
       content: "Productivity level 💯 today! Knocked out my to-do list and ready to tackle the week ahead. 👊 #MondayMood #ProductiveDay"
-    }
+    },
     {
       content: "Chasing sunsets and making memories with good friends. 🌇 Tag someone you want to share a sunset with! #FriendshipGoals #SunsetChaser"
     },
@@ -202,7 +202,7 @@ const CONTENT = [
     },
     {
       content: "Diving into a new hobby: photography! 📷 Share your favorite photography tips or your go-to camera. #PhotographyBeginner #CaptureTheMoment"
-    }
+    },
     {
       content: "Sundays are for self-care. Taking a break to recharge and pamper myself. 💆‍♀️ What's your favorite self-care ritual? #SelfCareSunday #MeTime"
     },
@@ -232,7 +232,7 @@ const CONTENT = [
     },
     {
       content: "Gratitude challenge: three things I'm thankful for today. What's at the top of your gratitude list? #GratitudeChallenge #ThankfulHeart"
-    }
+    },
     {
       content: "Sunday vibes: lazy morning, good book, and a cup of tea. 📚☕️ What's your ideal way to unwind on a lazy day? #LazySunday #RelaxationMode"
     },
@@ -262,7 +262,7 @@ const CONTENT = [
     },
     {
       content: "Mind-blowing documentary alert! Just watched [title]. Highly recommend it for a thought-provoking experience. 📽️ #DocumentaryRecommendation #MustSee"
-    }
+    },
     {
       content: "Friday night in with a homemade pizza and favorite movie. 🍕🎬 What's your ideal Friday night? #FridayFeeling #MovieNightIn"
     },
@@ -292,7 +292,7 @@ const CONTENT = [
     },
     {
       content: "Catching the sunrise and starting the day with positive energy. ☀️ What morning rituals set a positive tone for your day? #MorningMotivation #PositiveStart"
-    }
+    },
     {
       content: "Visited a local art exhibit and was blown away by the creativity on display. 🎨 Share your favorite art forms or artists! #LocalArtScene #ArtAppreciation"
     },
@@ -322,7 +322,7 @@ const CONTENT = [
     },
     {
       content: "Midweek motivation: tackling challenges with a positive mindset. 💪✨ What motivates you to push through the midweek slump? #MidweekMotivation #PositiveMindset"
-    }
+    },
     {
       content: "Spending the weekend in nature – hiking trails, breathing fresh air, and enjoying the serenity. 🌲 What's your favorite outdoor escape? #WeekendNatureTrip #OutdoorAdventure"
     },
@@ -352,7 +352,7 @@ const CONTENT = [
     },
     {
       content: "Reminiscing about a memorable travel adventure. ✈️ Share a travel memory that always brings a smile to your face! #TravelMemories #Wanderlust"
-    }
+    },
     {
       content: "Sunday reading corner: getting lost in the pages of a captivating novel. 📖 What's your current literary escape? #Bookworm #ReadingCorner"
     },
@@ -382,7 +382,7 @@ const CONTENT = [
     },
     {
       content: "Sunday sunset reflections: appreciating the beauty of endings and new beginnings. 🌅 What does the sunset symbolize for you? #SunsetReflections #NewBeginnings"
-    }
+    },
     {
       content: "Saturday morning playlist: uplifting tunes to start the weekend on a positive note. 🎵 What's your favorite weekend soundtrack? #WeekendVibes #MusicIsLife"
     },
