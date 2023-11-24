@@ -44,7 +44,7 @@ const Feed = ({ navigate }) => {
     else {
       navigate('/login')
     }
-  }, [userId, posts, reRender])
+  }, [reRender])
   
 
   
