@@ -121,7 +121,7 @@ const SignUpForm = ({ navigate }) => {
           <input role='submit' id='submit' className='primary-btn' type="submit" value="Sign Up" />
           {emptyFieldsError && <p style={{ color: 'red' }}>{emptyFieldsError}</p>}
           {errorMessage && <p style={{ color: 'red' }}>{errorMessage}</p>}
-          <p>Already have an account? <a href="/Login">Login</a></p>
+          <p>Already have an account? <a href="/login">Login</a></p>
       </form>
     );
 }

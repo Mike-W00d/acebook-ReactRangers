@@ -6,11 +6,11 @@ const LoggedOut = ({ children }) => {
   const [showNavBar, setShowNavBar] = useState(false);
 
   useEffect(() => {
-    const hiddenPages = ['/posts', '/profile'];
-    if (hiddenPages.includes(location.pathname)) {
-      setShowNavBar(false);
-    } else {
+    const seenPages = ['/login', '/signup'];
+    if (seenPages.includes(location.pathname)) {
       setShowNavBar(true);
+    } else {
+      setShowNavBar(false);
     }
   }, [location]);
 

@@ -1,147 +1,147 @@
 const CONTENT = [
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just discovered the joy of eating ice cream for breakfast. Adulting level: Expert. 🍦 #BreakfastOfChampions #LivingMyBestLife",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Lost my keys again today. It's like they have a secret society plotting against me. 🔑😅 #KeyConspiracy #MondayStruggles",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Current mood: Trying to adult but also wondering when nap time is. 😴 #AdultingReality #NapQueen",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Spent the entire weekend binge-watching cat videos. No regrets. 🐾❤️ #CatPerson #WeekendVibes",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just had a conversation with my houseplants. They're thriving, FYI. 🌿🌱 #PlantParent #GreenThumb",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Decided to organize my closet today. Found clothes I forgot I owned. Shopping spree at home! 👗🛍️ #ClosetTreasures #FashionSurprise",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Attempting to cook a gourmet meal tonight. Currently Googling 'how not to burn pasta.' 🍝👩‍🍳 #ChefInTheMaking #CookingAdventures",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Successfully adulted today: remembered to water the plants, pay bills, and wear matching socks. Winning at life! 🌧️💸🧦 #AdultingWin #SmallVictories",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Started a new book today. Accidentally finished it. Oops. 📚🤷‍♂️ #BookWorm #CantPutItDown",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just had a dance party in my living room because why not? 💃🕺 #DanceLikeNoOneIsWatching #FridayFeeling",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Note to self: You are not a morning person. Coffee, do your thing. ☕️😴 #NotAMorningPerson #CoffeePlease",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Tried a new recipe and now my kitchen looks like a crime scene. Send help (and a cleaning service). 🍳🚑 #CookingGoneWrong #KitchenDisaster",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just discovered the magic of dry shampoo. Laziness level: Expert. 💁‍♀️✨ #LazyDay #DryShampooSavesLives",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Binge-watching a new series and questioning all my life choices. Thanks, Netflix. 📺🤔 #NetflixAndChill #SeriesAddict",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Accidentally liked my ex's photo from 47 weeks ago. Time to disappear. 🕵️‍♂️🚶‍♂️ #SocialMediaFail #AwkwardMoments",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Considering a career change to become a professional napper. Where do I sign up? 😴💤 #DreamJob #NappingPro",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just spent an hour looking for my phone while using my phone as a flashlight. Smooth move, genius. 🔦📱 #EpicFail #LostAndFound",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Managed to adult today: grocery shopping without buying unnecessary snacks. Who am I? 🛒🍎 #Adulting101 #GroceryWin",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Went to the gym and accidentally made eye contact with my treadmill. Awkward. 🏋️‍♀️👀 #GymLife #AwkwardMoments",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Determined to conquer Monday, but my bed is giving me serious 'stay' vibes. 😴🛌 #MondayMotivation #BedVsReality",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just had a staring contest with my fridge. The leftovers won. 🍕👀 #FoodieProblems #FridgeStareDown",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Visited a bookstore today and left with five new books. No self-control whatsoever. 📚🛍️ #BookHaul #BookwormProblems",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Successfully avoided adult responsibilities today by binge-watching my favorite TV show. Priorities, right? 📺🛋️ #ProcrastinationQueen #NetflixLife",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Started a DIY project. Currently surrounded by glue, glitter, and regrets. ✂️🎨 #CraftingGoneWrong #DIYDisaster",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Accidentally sent a text to the wrong person. Now waiting for the ground to swallow me whole. 📱😬 #TextingFail #AwkwardMoments",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just realized I've been wearing my shirt inside out all day. Fashion statement or fashion disaster? 🤔👕 #FashionFauxPas #StyleFail",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just seen my friend Sam trying to make it home from the pub, he really is a liability #lightweight",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Life update: Finally conquered my fear of public speaking by giving a presentation at work. Adrenaline rush = ✔️🎤 #PersonalGrowth #FearConquered",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Life update: Tried meditation for the first time. Accidentally fell asleep. 🧘‍♂️💤 #MeditationFail #ZenNap",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Enrolled in a cooking class to upgrade my culinary skills. Watch out, Gordon Ramsay! 👨‍🍳🔪 #CookingClassAdventures #ChefInTheMaking",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Life update: Spent the weekend hiking and reconnecting with nature. Feeling rejuvenated and covered in bug bites. 🌳🚶‍♀️ #NatureLover #HikingAdventures",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Embarked on a decluttering mission. Goodbye, unnecessary stuff! 👋🧹 #MinimalismJourney #DeclutteringGoals",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Started learning a new language today. Bonjour, world! 🌎🇫🇷 #LanguageLearning #BonjourLife",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Life update: Successfully survived a week without caffeine. It was a dark and challenging journey. ☕️➡️🚫 #CaffeineDetox #Survivor",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Just signed up for a dance class. Prepare for a whole new level of awkwardness. 💃🕺 #DanceBeginner #NewAdventures",
     },
     {
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "Embarked on a decluttering mission. Goodbye, unnecessary stuff! 👋🧹 #MinimalismJourney #DeclutteringGoals",
     },
   ];
 
