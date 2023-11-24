@@ -46,7 +46,7 @@ const PostsController = {
       throw err;
     }
   },
-
+  //Following route
   ByFollowing: async (req, res) => {
     try {
       const currentUser = await User.findById(req.user_id);
