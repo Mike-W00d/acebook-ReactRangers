@@ -443,6 +443,6 @@ const CONTENT = [
     {
       content: "Saturday tech exploration: testing out new apps and gadgets. 📱 What's the latest tech discovery that you can't live without? #TechExploration #GadgetLove"
     }
-
+  ]
 
   module.exports = CONTENT;
